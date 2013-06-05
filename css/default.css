@@ -142,6 +142,36 @@ section#allPosts ul li {
 }
 
 /*
+ * Render single post
+ */
+
+article header h2 {
+  margin-top: 40px;
+}
+
+article h3,
+article h4 {
+  color: #222;
+}
+
+article p ,
+article ul {
+  color: #444;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+article a {
+  color: #08C;
+}
+
+article a:hover {
+  text-decoration: none;
+}
+
+/*
  * Footer
  */
 
