@@ -11,7 +11,7 @@ C'est, à présent, chose faite puisque je viens de réussir à l'instant à fai
 
 Je vais vous expliquer en détail comment j'ai fait car la tâche n'a pas été simple. 
 
-####Avant de commencer
+###Avant de commencer
 
 Il va vous falloir une Wiimote (avec ou sans Nunchuk) ainsi qu'une clef Bluetooth.
 
@@ -21,7 +21,7 @@ lien utile : [ArchLinux - wiki : Wiimote](https://wiki.archlinux.org/index.php/W
 
 Si tu es sous Windows, ça devrait fonctionner mais ça reste à vérifier. La librairie que nous allons utiliser est compatible WIN32 (c'est ce que j'en ai déduit en lisant le code source de la librairie). 
 
-#####Essayons voir si ça marche
+####Essayons voir si ça marche
 
 Ouvre ton terminal préféré et lance : "*hcitool scan*". Appui sur les boutons "1" et "2" de la Wiimote afin d'effectuer une recherche. Si tout se passe bien, tu devrais avoir quelque chose comme ça :
 <pre>
@@ -29,7 +29,7 @@ Scanning ...
 00:1E:35:2F:34:FA	Nintendo RVL-CNT-01
 </pre>
 
-#####Essayons quelque chose de plus drôle
+####Essayons quelque chose de plus drôle
 
 Dans le même terminal, lance : "*sudo wminput*". Appui sur "1" et "2" et tu devrais voir ceci dans la console :
 <pre>
@@ -44,11 +44,11 @@ Maintenant bouge ta Wiimote ! Héhé, non tu ne rêves pas. Tu peux effectivemen
 
 Attaquons nous maintenant au plus intéressant, le code source ! 
 
-####La librairie WiiUse
+###La librairie WiiUse
 
 Pour commencer, nous allons avoir besoin d'une librairie. J'ai trouvé la librairie **WiiUse** qui me parrait bien par sa taille, sa compatibilité Linux/Windows et le fait qu'elle soit simple et complète à la fois. 
 
-#####Liens
+####Liens
 * [Page de téléchargement de la librairie](http://sourceforge.net/projects/wiiuse/files/wiiuse/)
 * [Github du projet](https://github.com/rpavlik/wiiuse)
 * [Documentation de WiiUse](http://www.vrac.iastate.edu/vancegroup/docs/wiiuse/index.html)

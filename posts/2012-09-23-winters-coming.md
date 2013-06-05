@@ -5,11 +5,11 @@ tags: Ecosse
 ---
 Je savais que ça arriverai tôt mais tout de même... on est encore au mois de Septembre ! 
 
-Pas d'inquiétude, il ne neige pas (not yet) et il m'arrive encore de sortir me promener sans manteau. Par contre on sent que l'hivers approche dans les magasins. Cet après-midi, je faisais des magasins de vêtement (tout est ouvert le Dimanche ici) et j'ai été très étonné de voir des rayons entier de manteaux d'hivers, de gants, de bonnets, d'écharpes, de grattoir pour le givre sur les voitures et des sortes de semelle qui ajoutent des crampons aux chaussures... Des ajouts de crampons pour les chaussures ? La je m'inquiète. **C'est quoi l'hivers en Ecosse ?!** 
+Pas d'inquiétude, il ne neige pas (not yet) et il m'arrive encore de sortir me promener sans manteau. Par contre on sent que l'hivers approche dans les magasins. Cet après-midi, je faisais des magasins de vêtement (tout est ouvert le Dimanche ici) et j'ai été très étonné de voir des rayons entier de manteaux d'hivers, de gants, de bonnets, d'écharpes, de grattoir pour le givre sur les voitures et des sortes de semelle qui ajoutent des crampons aux chaussures... Des ajouts de crampons pour les chaussures ? Je m'inquiète. **C'est quoi l'hivers en Ecosse ?!** 
 
 Bon je vous parle de ça, c'est surtout pour faire l'introduction et pour trouver un titre cool pour mon article ;). 
 
-####Où j'en suis ? 
+###Où j'en suis ? 
 
 Je ne suis plus à l'auberge. Je suis maintenant installé dans mon logement, je commence à bien connaitre mes colocataires et les cours ont commencés. 
 Pour les cours je ne vais pas en parler maintenant. Je ferai un article consacré à ce que j'étudie ici. 

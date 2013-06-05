@@ -11,7 +11,12 @@ Je suis **David Guyon**. J’ai actuellement 21 ans et je suis encore étudiant.
 
 J'avais commencé ce blog avec WordPress et un ami m'a vite conseillé de passer sous Jekyll. C'est un système de blog statique et c'est juste parfait !
 
-*UPDATE*: A présent je n'utilise plus Jekyll mais Hakyll qui me permet de créer mon blog avec le langage Haskell. 
+<pre>
+Mise à jour du 04 Juin 2013 :
+Je n'utilise plus Jekyll mais <b>Hakyll</b>.
+Ceci  me permet de créer mon blog avec le langage Haskell.
+Plus d'information à propos de Hakyll à cette adresse : <a href="http://jaspervdj.be/hakyll/">http://jaspervdj.be/hakyll/</a>
+</pre>
 
 Autre raison : j’avais déjà un blog sur ma passion du « DIY » (Do It Yourself) mais je n’ai pas réussi à le tenir à jour. J’ai tout arrêté. La raison est que je n’ai pas qu’une seule passion mais un certain nombre et j’aimerai pouvoir m’exprimer sur chacune d’entre elles. C’est ici la principale raison de la création de ce blog. J’exprimerai ici tout et n’importe quoi. Je passerai du coq à l’âne, parlant d’électronique puis de cuisine en passant par des notions d’écologie. Bref, attendez vous à voir des articles très divers. C’est pourquoi je prendrai le soin de bien trier mes articles par catégories !
 

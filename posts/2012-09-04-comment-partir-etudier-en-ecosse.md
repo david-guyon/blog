@@ -7,7 +7,7 @@ Tu es actuellement étudiant en DUT (*Diplôme Universitaire Technologique*) et 
 
 Au travers de cet article, je vais te présenter mon parcours et quelles procédures sont à faire pour mener à bien ce projet.
 
-####Mon parcours
+###Mon parcours
 
 Après mon BAC STI en Electrotechnique, j’ai été en université à Angers pour faire un DUT GEII (*Diplôme Universitaire Technologique Genie Electrique et Informatique Industrielle*). Durant ces 2 années, on m’a présenté différent moyen pour aller à l’étranger. Il y avait le stage de fin d’année que l’on pouvait faire en entreprise dans un autre pays. Il y avait aussi la possibilité de faire le semèstre 4 dans une université à l’étranger (une liste présentait les universités participantes). Et pour finir, on nous proposait de partir en DUETI (*Diplôme Universitaire d’Etudes Technologique Internationale*). C’est ce dernier qui m’a intéressé.
 
@@ -30,7 +30,7 @@ in Scotland
 
 Maintenant que les présentations sont faites, je vais vous expliquer la procédure pour y arriver.
 
-####La procédure
+###La procédure
 
 Je ne vais pas t’expliquer comment s’inscrire dans une école étrangère en général mais uniquement comment s’inscrire dans une école Écossaise. Plus précisément, comment entrer à l’université de **Napier à Édimbourg**.
 
@@ -52,13 +52,13 @@ Pour finir, une chose importante est de s’inscrire sur le site du [SAAS](https
 
 <img src="/files/Napier.jpg" title="Photo du campus Craiglockhart" style="display: block; margin-right: auto; margin-left: auto;" />
 
-####Une fois sur place
+###Une fois sur place
 
 Tu as réussi la partie administrative, tu as même trouvé un vol cheap pour aller à Edimbourg. **Félicitation**, le plus dur et le plus ennuyant est fait. A présent tu vas pouvoir commencer à te rendre compte que tu n'as pas fait tout ça pour rien ! 
 
 *"Je ne sais pas trop comment m'y prendre pour la suite de cet article. Je vais simplement lister ce que moi j'ai fait en arrivant à Edimbourg."*
 
-#####L'Emploi du temps
+####L'Emploi du temps
 
 Quand tu vas connaitre ton emploi du temps pour la première fois, tu vas probablement être choqué. On m'avait prévenu mais je m'attendai pas à ça. J'ai environ 14h de cours par semaine et j'ai un weekend de 4 jours. 
 Je ne te cache donc pas qu'ils attendent de toi un travail personnel immense (c'est la méthode à l'anglaise, renseigne toi avant si tu ne connais pas). 
@@ -67,13 +67,13 @@ Donc tu auras beaucoup de temps libre.
 Pourquoi pas essayer de trouver un petit travail étudiant ? Ca te permettra de rentabiliser les nombreuses pintes achetées dans les Pub ! 
 Quelques règles pour pouvoir travailler : 
 
-#####Demander un Nationnal Insurance Number (NIN)
+####Demander un Nationnal Insurance Number (NIN)
 
 C'est un numéro qui te permet de travailler en Ecosse et te permet d'avoir certaines couvertures/aides en cas de problème. Je suis pas très sur de moi mais ce qui est certain c'est que si tu souhaites avoir un travail étudiant durant la semaine/weekend, tu auras besoin de ce numéro. 
 
 Pour l'avoir, rien de plus simple. Tu les appels, ils vont te demander tes origines, où tu vies et pourquoi tu veux ce numéro. Ensuite ils vont te donner une horaire pour un rendez vous dans les deux semaines qui suivent. Pour mon cas j'ai été au rendez vous à pied car il était dans le centre d'Edimbourg. Ca va durer un quart d'heure et c'est bon tu auras le fameux numéro. 
 
-#####Bank Account
+####Bank Account
 
 Avant de partir, je suis allé me renseigner à ma banque s'ils avaient une offre adaptée à mon projet. Ils m'ont proposé de passer sur une carte Premier/Gold qui me permet de payer avec ma carte partout en Europe sans avoir des taxes énormes (sauf en retrait liquide, c'est bien surtaxé). J'avoue être passé sur cette offre car il y avait une offre étudiante et qu'elle ne me coûte presque rien. 
 
@@ -81,12 +81,17 @@ Le problème est que si je veux travailler, le versement du salaire se fait sur 
 
 En plus de servir pour le versement de ma paie, ce compte me permet de retirer en cash sans payer de taxe contrairement à ma carte Française. 
 
-#####Téléphone portable
+####Téléphone portable
 
 Tu vas te rendre compte que ton numéro de portable Français est pas aimé en Ecosse. Déjà tu payes plus cher suivant ton offre mobile (pour mon cas 10cent/SMS et 40cent/min) et tout ce qui est administratif **ne veulent pas** de ton numéro car ils refusent d'appeler à l'étranger. 
 
 Voici comment j'ai fait : Mon abonnement s'est terminé en Novembre, j'ai fermé ma ligne chez Bouygue Telecom pour passer sur un forfait FreeMobile à 2€/mois juste pour garder mon numéro. J'ai fait le choix de ne pas ouvrir de ligne en Ecosse car je n'avais pas besoin de numéro de téléphone sur place. Un ami l'a fait et il payait environ £10/mois (1h d'appel, SMS et data illimités). 
 
-#####Médecin Généraliste
+####Médecin Généraliste
 
 En Ecosse, ils appellent ça un GP (General Practice). La question de *"Faut il en avoir un ?"* ne se pose pas. **Il faut !** Certains prennent le risque de ne pas le faire. Etant donné que l'on sait pas ce qu'il peut nous arriver, il est fortement déconseillé et stupide de ne pas le faire. Pour en avoir un, il suffit de remplir une feuille et de la rendre à la personne concernée (pour mon cas c'était un cabinet à 200m de mon logement). Tu n'as rien à payer, pas de rendez vous à prendre. Juste à remplir correctement cette feuille et te voila couvert par un GP ! 
+
+###Le mot de la fin
+
+Vous avez tout lu ? Cela montre ta motivation pour aller étudier à l'étranger. C'est une bonne chose ! 
+Malgrés la taille de cet article, il est loin d'être complet et tu auras probablement beaucoup de question. Pose les par commentaires ou contacte moi à l'adresse *david@guyon.me*. Je me ferais un plaisir à y répondre. 
