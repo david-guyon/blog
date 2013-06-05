@@ -6,17 +6,6 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'Junction';
-  src: url('/fonts/Junction.eot');
-  src: url('/fonts/Junction.eot?#iefix') format('embedded-opentype'),
-       url('/fonts/Junction.woff') format('woff'),
-       url('/fonts/Junction.ttf') format('truetype'),
-       url('/fonts/Junction.svg#junctionregularRegular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
 /*
  * General
  */
@@ -31,7 +20,7 @@ section a {
 
 body {
   background-color: #FBFAF7;
-  font-family: "Junction", Arial;
+  font-family: "Droid Sans", Arial;
 }
 
 /*
@@ -88,7 +77,7 @@ header #navigation a {
   margin-left: 12px;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: "Junction", Arial;
+  font-family: "Droid Sans", Arial;
 }
 
 /*
@@ -133,7 +122,7 @@ section#allPosts ul,
 section#tags p {
   color: #DDD;
   margin: 15px 10px;
-  font-family: "Junction", Arial;
+  font-family: "Droid Sans", Arial;
 }
 
 section#recentPosts ul li,
@@ -151,6 +140,7 @@ article header h2 {
 
 article h3,
 article h4 {
+  font-family: "Existence", Arial;
   color: #222;
 }
 
@@ -187,6 +177,6 @@ body > footer {
   font-size: 12px;
   margin-top: 30px;
   text-align: center;
-  font-family: "Junction", Arial;
+  font-family: "Droid Sans", Arial;
 }
 
