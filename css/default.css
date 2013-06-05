@@ -171,6 +171,11 @@ article a:hover {
   text-decoration: none;
 }
 
+article img {
+  padding: 5px;
+  border: 1px solid #CCC;
+}
+
 /*
  * Footer
  */
