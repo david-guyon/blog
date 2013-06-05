@@ -93,6 +93,7 @@ section#recentPosts,
 section#allPosts,
 section#tags {
   height: 100%;
+  font-size: 15px;
   margin-top: 20px;
   background-color: #666;
   -webkit-box-shadow: 3px 3px 8px #888;
@@ -128,6 +129,13 @@ section#tags p {
 section#recentPosts ul li,
 section#allPosts ul li {
   margin-bottom: 10px;
+}
+
+section#recentPosts a:hover,
+section#allPosts a:hover,
+section#tags a:hover {
+  color: rgb(174, 228, 255);
+  text-decoration: none;
 }
 
 /*
