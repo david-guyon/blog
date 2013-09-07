@@ -64,7 +64,8 @@ Sur cette photo on peut voir la mise en place des pieds du piano. C'est à ce mo
 
 À l'aide de petites bandes à DELs j'ai installé un éclairage dans mon piano qui se met en route avec un bouton caché dans la caisse. Le rendu est très intéressant étant donné que j'ai vitré mon piano pour voir les marteaux taper les cordes pendant que je joue. 
 
-<pre>Faire une petite vidéo pour montrer le système d'éclairage en fonctionnement</pre>
+<iframe width="762" height="460" src="//www.youtube.com/embed/zlVdbh14ViI" frameborder="0" allowfullscreen></iframe>
+
 
 ###L'accordage
 
