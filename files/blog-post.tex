@@ -1,0 +1,131 @@
+\documentclass[11pt]{scrartcl}
+
+% Configuration
+\usepackage[utf8]{inputenc}
+\usepackage{fixltx2e}
+\usepackage{xspace}
+\usepackage{microtype}
+\usepackage[l2tabu,abort]{nag}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[artemisia]{textgreek}
+\usepackage{multicol}
+\usepackage{mathtools}
+\usepackage[frenchb]{babel}
+\usepackage{semantic}
+\usepackage{listings}
+\usepackage{xcolor}
+\lstset{
+    numbers=left,
+    backgroundcolor=\color{gray!10},
+    frame=single,
+    tabsize=2,
+    rulecolor=\color{black!30},
+    breaklines=true,
+    breakatwhitespace=true,
+    framextopmargin=2pt,
+    framexbottommargin=2pt,
+    captionpos=b,
+    aboveskip=4pt,
+    belowskip=3pt,
+    language=Java,
+}
+
+\begin{document}
+
+%
+% Document title
+%
+\author{Jake The Dog \and David Guyon}
+\date{January 14th, 2013}
+\title{LaTeX Time\\Come on, grab your friends!}
+\maketitle
+
+%
+% My abstract
+%
+\begin{abstract}
+Our goal was to become programmers, so we started drinking coffee and staring at our screen but instead we became crazy and blind. How do they do that? In this article, we present you our research about how amazing are programmers and how they will save the world.
+\end{abstract}
+
+%
+% First section
+%
+\section{The answer to life the universe and everything}
+
+The answer is not lists but whatever, let's take a look at them.
+
+% List not enumerated
+\subsection{Bulleted list}
+\begin{itemize}
+\item First item
+\item Second item
+\end{itemize}
+
+% Enumerated list
+\subsection{Enumerated list}
+\begin{enumerate}
+\item An enumerated item
+\item Another one
+\end{enumerate}
+
+BTW, the answer is \textbf{\textit{42}}! 
+
+%
+% Second section
+%
+\section{Let's talk Greek and French}
+
+\subsection{Greek symbols}
+\textsigma=\textrho\textOmega+\textPhi
+
+\subsection{French language}
+La 1\iere fois que j'ai écrit un document en \LaTeX, la température était de 22\degres C. En France, on écrit les noms de famille en majuscule comme ceci, \bsc{Guyon} David et nous n'utilisons pas "ceci" mais \og cela \fg.
+
+%
+% Third section
+%
+\section{Let's do mathematics}
+\begin{equation}
+E \neq m c^3
+\end{equation}
+\begin{equation}
+E = m c^2
+\end{equation}
+\begin{equation}
+c \approx 3.00\times 10^{8}\,\mathrm{m}/\mathrm{s}
+\end{equation}
+
+\[
+A \xLeftarrow[under]{over} B
+\]
+
+\[
+\begin{bsmallmatrix}a & -b \\ -c & d \end{bsmallmatrix}
+\begin{bsmallmatrix*}[r] a & -b \\ -c & d \end{bsmallmatrix*}
+\]
+
+%
+% Fourth section
+%
+\section{Specific applications}
+
+\begin{multicols}{2}
+The theme song of the TV show Adventure Time sounds like this : "Adventure time, c'mon grab your friends. We'll go to very distant lands. With Jake the Dog, and Finn the Human, the fun will never end. It's adventure time." This is the kind of song which could stay in your head a whole day and could freeze your mind because of its addictivity.
+\end{multicols}
+
+\subsection{Source code}
+\begin{lstlisting}[caption=Interface \textit{Command}]
+public abstract interface Command {
+	public abstract void execute();
+}
+\end{lstlisting}
+
+\subsection{Semantic}
+\begin{align*}
+\inference[Séquence ]
+  { $< c, $\sigma$ > $->${*} $\sigma$'$ }
+  { $< c; c', $\sigma$ > $-->$ < c', $\sigma$'>$}
+\end{align*}
+
+\end{document}

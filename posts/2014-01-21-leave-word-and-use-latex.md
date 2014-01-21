@@ -4,12 +4,13 @@ author: davidguyon
 tags: LaTeX 
 description: Introduction to LaTeX
 ---
+<img src="/files/write_latex.png" title="Un immense paquet de chips" style="width: 150px; float: right; margin-left: 15px; margin-bottom: 15px;" />
 
 I remember that day when Mr. Word told me “_You’ve got 22 days left_”, that’s when I really started thinking that using LaTeX could be a nice idea. Here I am to present you my transition.
 
 ###Why LaTeX?
 
-You want a report that suits various publications with math equations, tables or something specific because of your working area? LaTeX is clearly the best choice. 
+You want a report that suits various publications with math equations, tables or something specific because of your working area? LaTeX is a very good choice as you will see in the rest of this article.  
 
 If you are looking for a tool to write a short document, if you have the habit to use many different fonts, colors, then maybe Mr. Word is more suitable for you. 
 
@@ -20,6 +21,10 @@ Firstly, LaTeX is free. You won’t pay hundreds of euros/dollars/pounds to crea
 Let’s start from scratch. Say you are using a Linux operating system, you will need some tools so you can start your first LaTeX report. 
 
 In fact, you only need two things to start: the LaTeX tool and a text editor. To install the LaTeX tool on Ubuntu, open a terminal and write `sudo apt-get install texlive` for a minimal installation. For a more complete installation, you would prefer to install the _texlive-latex-extra_ package. For ArchLinux users, write `yaourt texlive` in your favorite console and select the packages you would like to install. Then you need a text editor. Some of you will prefer to use something with builtin compilation tools and other hardcore users would prefer to use Vim and compile their document with a command line on a terminal. You're free to choose the way you like. In this tutorial I will suppose you're lazy and that you would like to use a full features one like _texmaker_. To install the guy, `sudo apt-get install texmaker` (`yaourt -S texmaker` on ArchLinux). 
+
+<img src="/files/latex_doc.png" title="Un immense paquet de chips" style="display: block; margin-right: auto; margin-left: auto;" />
+
+Before we continue, I give you this [blog-post.tex](/files/blog-post.tex) file as a sandbox and also the [blog-post.pdf](/files/blog-post.pdf) so you can see how it looks.
 
 ###The basics
 
