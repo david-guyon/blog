@@ -152,6 +152,14 @@ article h4 {
   color: #222;
 }
 
+article h3 {
+  margin-top: 18px;
+}
+
+article h4 {
+  font-size: 20px;
+}
+
 article p ,
 article ul {
   color: #333;
