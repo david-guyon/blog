@@ -1,6 +1,5 @@
 ---
 title: Leave Word and use LaTeX 
-author: davidguyon
 tags: LaTeX 
 description: Introduction to LaTeX
 ---
