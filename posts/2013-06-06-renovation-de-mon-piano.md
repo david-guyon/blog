@@ -1,6 +1,5 @@
 ---
 title: Rénovation de mon piano
-author: David Guyon
 tags: SongAccoustic
 description: Présentation de mon piano droit et de sa rénovation
 ---
