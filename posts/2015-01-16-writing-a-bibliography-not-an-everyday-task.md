@@ -1,6 +1,5 @@
 ---
 title: Writing a Bibliography: not an everyday task
-author: David Guyon
 tags: LaTeX, Bibliography
 description: Tutorial to write a proper bibliography
 ---
