@@ -14,7 +14,7 @@ Quand on parle de permaculture, un autre concept n’est jamais bien loin : l’
 <img src="/files/permaculture-principles.png" title="Permaculture" style="border: none; display: block; margin-right: auto; margin-left: auto;" />
 
 ###Un peu d’histoire
-Un très court point historique sur la permaculture. Le mot permaculture vient de la combinaison de agriculture et de permanente, en anglais permanent-culture. Ce mot a vu le jour pour le première fois en 1978 dans le livre de [Bill Mollison](http://fr.wikipedia.org/wiki/Bill_Mollison) et [David Holmgren](http://fr.wikipedia.org/wiki/David_Holmgren), Permaculture One. Bill Mollison, né en 1928, et David Holmgren, 1955, sont considérés comme les fondateurs du concept de la permaculture. 
+Un très court point historique sur la permaculture. Le mot permaculture vient de la combinaison de agriculture et de permanente, en anglais _permanent-culture_. Ce mot a vu le jour pour la première fois en 1978 dans le livre de [Bill Mollison](http://fr.wikipedia.org/wiki/Bill_Mollison) et [David Holmgren](http://fr.wikipedia.org/wiki/David_Holmgren), _Permaculture One_. Bill Mollison, né en 1928, et David Holmgren en 1955, sont considérés comme les fondateurs du concept de la permaculture. 
 
 Assez discutez, agissons ! Dans un prochain article, je vous présenterai les techniques de permaculture que j’ai apprises au travers de ma recherche culturelle. En attendant, je vous invite à vous nourrir de savoir en allant voir les différentes références présentées ci-dessous. J’apprécie particulièrement l’épisode 1 de la ferme du Bec Hellouin qui présente très bien ce concept et donne envie d’en savoir plus. Leurs vidéos ont nourri mon appétit pour la permaculture ! 
 
