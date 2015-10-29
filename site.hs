@@ -2,7 +2,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Main where
 
-import  System.Locale (TimeLocale(..))
+import  Data.Time.Format (defaultTimeLocale)
 import  Data.Functor ((<$>))
 import  Data.List (isPrefixOf)
 import  Data.Monoid (mappend)
@@ -44,8 +44,8 @@ main = hakyll $ do
     match "posts/*" $ do
         route   $ setExtension ".html"
         compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    (tagsCtx tags) 
-            
+            >>= loadAndApplyTemplate "templates/post.html"    (tagsCtx tags)
+
             -- RSS feed
             >>= (externalizeUrls $ feedRoot feedConfiguration)
             >>= saveSnapshot "content"
@@ -54,7 +54,7 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "templates/disqus.html"  (tagsCtx tags)
             >>= loadAndApplyTemplate "templates/default.html" (tagsCtx tags)
             >>= relativizeUrls
-   
+
     -- Render posts list
     create ["posts.html"] $ do
         route idRoute
@@ -83,7 +83,7 @@ main = hakyll $ do
 
     -- Render related posts list from a specific tag
     tagsRules tags $ \tag pattern -> do
-        let title = "Articles à propos de : " ++ tag
+        let title = "Posts with tag " ++ tag
         route idRoute
         compile $ do
             list <- postList tags pattern recentFirst
@@ -93,7 +93,7 @@ main = hakyll $ do
                          constField "body"  list  `mappend`
                          defaultContext)
                 >>= loadAndApplyTemplate "templates/default.html"
-                        (constField "description" "Liste des articles" `mappend`
+                        (constField "description" "Posts list" `mappend`
                          defaultContext)
                 >>= relativizeUrls
 
@@ -119,23 +119,22 @@ main = hakyll $ do
 --------------------------------------------------------------------------------
 postCtx :: Context String
 postCtx =
-    dateFieldWith frTimeLocale "date" "%e %B %Y" `mappend`
+    dateFieldWith defaultTimeLocale "date" "%B %e, %Y" `mappend`
     defaultContext
-
 
 --------------------------------------------------------------------------------
 allPostsCtx :: Context String
 allPostsCtx =
-    constField "title" "Tous les articles" `mappend`
-    constField "description" "Liste des articles" `mappend`
+    constField "title" "Posts" `mappend`
+    constField "description" "Posts list" `mappend`
     postCtx
 
 --------------------------------------------------------------------------------
 homeCtx :: Tags -> String -> Context String
 homeCtx tags list =
     constField "posts" list `mappend`
-    constField "title" "Accueil" `mappend`
-    constField "description" "Articles que j'écris sur les thèmes de l'électronique et de l'informatique" `mappend`
+    constField "title" "Home" `mappend`
+    constField "description" "Posts I write about computer science, music and stuff" `mappend`
     field "taglist" (\_ -> renderTagList tags) `mappend`
     defaultContext
 
@@ -150,12 +149,12 @@ tagsCtx :: Tags -> Context String
 tagsCtx tags =
     tagsField "prettytags" tags `mappend`
     postCtx
- 
+
 --------------------------------------------------------------------------------
 feedConfiguration :: FeedConfiguration
 feedConfiguration = FeedConfiguration
     { feedTitle       = "David Guyon - blog"
-    , feedDescription = "Articles que j'écris"
+    , feedDescription = "Posts I write about computer science, music and stuff"
     , feedAuthorName  = "David Guyon"
     , feedAuthorEmail = "david@guyon.me"
     , feedRoot        = "http://blog.david.guyon.me"
@@ -195,31 +194,3 @@ postList tags pattern preprocess' = do
     applyTemplateList postItemTpl (tagsCtx tags) processed
 
 --------------------------------------------------------------------------------
-frTimeLocale :: TimeLocale 
-frTimeLocale =  TimeLocale { 
-  wDays  = [("dimanche", "dim"), ("lundi",    "lun"), 
-            ("mardi",    "mar"), ("mercredi", "mer"), 
-            ("jeudi",    "jeu"), ("vendredi", "ven"), 
-            ("samedi",   "sam")], 
-
-  months = [("janvier",   "jan"), ("février",  "fev"), 
-            ("mars",      "mar"), ("avril",    "avr"), 
-            ("mai",       "mai"), ("juin",    "juin"), 
-            ("juillet",  "juil"), ("août",    "août"), 
-            ("septembre", "sep"), ("octobre",  "oct"), 
-            ("novembre",  "nov"), ("décembre", "dec")], 
-
-  intervals = [ ("année","années") 
-              , ("mois", "mois") 
-              , ("jour","jours") 
-              , ("heure","heures") 
-              , ("min","mins") 
-              , ("sec","secs") 
-              , ("usec","usecs") 
-              ], 
-  amPm = (" du matin", " de l'après-midi"), 
-  dateTimeFmt = "%a %e %b %Y, %H:%M:%S %Z", 
-  dateFmt   = "%d-%m-%Y", 
-  timeFmt   = "%H:%M:%S", 
-  time12Fmt = "%I:%M:%S %p" 
-} 
