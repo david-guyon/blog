@@ -1,6 +1,6 @@
 ---
-title: Comment partir étudier en Ecosse
-description: 
+title: Comment partir étudier en Écosse
+description: Plein de conseils pour partir étudier en Écosse 
 tags: Ecosse 
 ---
 Tu es actuellement étudiant en DUT (*Diplôme Universitaire Technologique*) et tu as toujours eu envie de voyager ? Alors cet article est fait pour toi !

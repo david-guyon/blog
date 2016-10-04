@@ -1,6 +1,6 @@
 ---
 title: BEng Computing, qu'est ce que c'est ?
-description: 
+description: Mes études à l'université d'Édimbourg 
 tags: Ecosse 
 ---
 Beaucoup d'entre vous savent que je suis en Ecosse mais je suis sûr que plus de la moitier ne savent pas ce que j'y fais ! 

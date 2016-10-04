@@ -1,6 +1,6 @@
 ---
 title: First day at Edinburgh
-description: 
+description: Mon premier jour à Édimbourg 
 tags: Ecosse 
 ---
 Hey you all, Qu’est ce que s’up ?!

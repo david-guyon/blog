@@ -1,6 +1,6 @@
 ---
 title: SongAccoustic opens its doors
-description: 
+description: Lancement du site de SongAccoustic 
 tags: SongAccoustic 
 ---
 <img src="/files/SALogo.png" title="Logo SongAccoustic" style="float: right; margin-left: 20px;" />

@@ -1,6 +1,6 @@
 ---
 title: SongAccoustic change d'outil de travail
-description: 
+description: Migration sur Sonar X1 
 tags: SongAccoustic 
 ---
 Après avoir travaillé toute la semaine avec mon habituel programme de MAO (*Musique Assistée par Ordinateur*), j’ai décidé de changer pour quelque chose de plus complet. J’ai fais ce choix hier et j’ai choisi **SONAR X1 Producer** de **Cakewalk**.

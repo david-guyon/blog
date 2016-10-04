@@ -1,6 +1,6 @@
 ---
 title: Découverte
-description:  
+description: premier article de mon blog 
 tags: General 
 ---
 ###Bienvenu sur mon nouveau blog.

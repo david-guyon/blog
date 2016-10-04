@@ -1,6 +1,6 @@
 ---
 title: Winter's coming
-description: 
+description: L'hivers en Écosse 
 tags: Ecosse
 ---
 Je savais que ça arriverai tôt mais tout de même... on est encore au mois de Septembre ! 

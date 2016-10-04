@@ -1,11 +1,13 @@
 ---
 title: Let's talk about the Caledonian Backpackers
-description: 
+description: Présentation de l'auberge de jeunesse 
 tags: Ecosse 
 ---
 Voici un petit article qui va vous présenter l'endroit où je vis actuellement.
 
 Effectivement, pour le moment je suis dans une auberge de jeunesse en attendant le 6 Septembre. C’est à cette date que je pourrai aller dans mon logement universitaire. L’auberge est le [Caledonian Backpackers](http://caledonianbackpackers.com/). Située en plein centre d’Edimbourg, cette auberge est parfaitement bien pensée pour rendre la vie d’un étranger facile.
+
+<img src="/files/CaledonianPeinture.jpg"     title="Une belle et drôle de peinture, on dirait Jack !" style="display: inline-block; margin: 4px;" width="100%" />
 
 ###Les avantages
 
@@ -28,10 +30,9 @@ Effectivement, pour le moment je suis dans une auberge de jeunesse en attendant 
 
 J’oublie probablement plein de chose mais je vais m’arrêter la et vous présenter quelques photos de ce lieu. 
 
-<img src="/files/CaledonianCucumberRoom.jpg" title="Salle de repos ou Cucumber Room"                  style="display: inline-block; margin: 4px;" width="220px" />
-<img src="/files/Caledoniantotoro.jpg"       title="Oh Totoro est parmi nous !"                       style="display: inline-block; margin: 4px;" width="220px" />
-<img src="/files/CaledonianEscalier.jpg"     title="Aperçu de la grandeur du batiment"                style="display: inline-block; margin: 4px;" width="220px" />
-<img src="/files/CaledonianCouloir.jpg"      title="Le couloir principal"                             style="display: inline-block; margin: 4px;" width="220px" />
-<img src="/files/CaledonianCouloirJaune.jpg" title="Tous les murs du batiment sont peints"            style="display: inline-block; margin: 4px;" width="220px" />
-<img src="/files/CaledonianCouloirRose.jpg"  title="Il y a des affiches un peu partout pour guider"   style="display: inline-block; margin: 4px;" width="220px" />
-<img src="/files/CaledonianPeinture.jpg"     title="Une belle et drôle de peinture, on dirait Jack !" style="display: inline-block; margin: 4px;" width="726px" />
+<img src="/files/CaledonianCucumberRoom.jpg" title="Salle de repos ou Cucumber Room"                  style="display: inline-block; margin: 4px;" width="46%" />
+<img src="/files/Caledoniantotoro.jpg"       title="Oh Totoro est parmi nous !"                       style="display: inline-block; margin: 4px;" width="46%" />
+<img src="/files/CaledonianEscalier.jpg"     title="Aperçu de la grandeur du batiment"                style="display: inline-block; margin: 4px;" width="46%" />
+<img src="/files/CaledonianCouloir.jpg"      title="Le couloir principal"                             style="display: inline-block; margin: 4px;" width="46%" />
+<img src="/files/CaledonianCouloirJaune.jpg" title="Tous les murs du batiment sont peints"            style="display: inline-block; margin: 4px;" width="46%" />
+<img src="/files/CaledonianCouloirRose.jpg"  title="Il y a des affiches un peu partout pour guider"   style="display: inline-block; margin: 4px;" width="46%" />
